@@ -1,5 +1,5 @@
-# Week 3: Part 1
+# Week 2: Part 3 
 
-In the first part of this week's work, which we anticipate will take you about **90** minutes to read, take notes, and attend lecture, you will learn about how to summarize the relationship between two random variables using measures of linear dependence. 
+In this Part 3 of this weeks work, which we anticipate will take you about **90** minutes to read, take notes, and attend lectures, you will learn about describing random variables with useful summaries. 
 
-Just as the expectation of a random varaible is a summary of single random variable, *covariance* and *correlation* are summaries of the joint distribution between two variables. 
+This permits you to make compact statements about random variables that are still informative. 
