@@ -1,4 +1,4 @@
-# Week 3: Part 3 
+# Week 4: Part 2
 
 The final part of this week's work, which we anticipate might take you **90** minutes to read, take notes and attend lecture, introduces two of the core ideas in the course: 
 
