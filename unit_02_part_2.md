@@ -1,4 +1,6 @@
-# Week 2: Part 2 
+# Unit 2: Part 2 
+
+## Joint Distributions 
 
 In Part 2 of this week's work, which we anticipate will take you **90** minutes to read, take notes, and attend lecture, you will learn about probability distribution functions applied to more than one varaibles at a time. 
 

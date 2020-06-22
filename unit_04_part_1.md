@@ -1,6 +1,8 @@
-# Week 3: Part 2 
+# Unit 4: Part 1
 
-In part 2 of this week's work, which we anticipate will require about **90** minutes to read, take notes, and attend lecture, you will learn about conditional expectation as an *operator* and then the *conditional expectation function*. 
+## Conditional Expectatoin
+
+In part 1 of this week's work, which we anticipate will require about **90** minutes to read, take notes, and attend lecture, you will learn about conditional expectation as an *operator* and then the *conditional expectation function*. 
 
 Sometimes these concepts can be a little difficult to keep straight -- as we will use them in this class: 
 

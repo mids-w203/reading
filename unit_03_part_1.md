@@ -1,4 +1,6 @@
-# Week 2: Part 3 
+# Unit 3: Part 1
+
+## Summarizing Distributions
 
 In this Part 3 of this weeks work, which we anticipate will take you about **90** minutes to read, take notes, and attend lectures, you will learn about describing random variables with useful summaries. 
 

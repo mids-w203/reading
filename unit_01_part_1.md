@@ -1,4 +1,6 @@
-# Week 1: Part 1
+# Unit 1: Part 1
+
+## Axioms of Probability 
 
 Welcome to the first part of the first week! 
 
