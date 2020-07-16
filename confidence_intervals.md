@@ -1,3 +1,3 @@
 # Confidence Intervals 
 
-There is not content to read at this point. We will fill in the content to read before the launch of the course. 
+Read section 3.4.1, Confidence Intervals, on pages 124-127.
