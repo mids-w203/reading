@@ -1,4 +1,4 @@
-# Bayes Rule 
+# Bayes' Rule 
 
 Continue to read, picking up where you left off in section 1.1.3 of *Foundations of Agnostic Statistics*. 
 
