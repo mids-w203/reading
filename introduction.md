@@ -1,6 +1,6 @@
-# Introduction 
+# Reading: *Foundations of Agnostic Statistics*
 
 Please read the **Introduction** to *Foundations of Agnostic Statistics*. 
 
-- Pages xv - xviii 
 - Section titled **Introduction** 
+- Pages xv-xviii 
