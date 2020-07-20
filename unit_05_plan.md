@@ -3,8 +3,6 @@
 ## Unit Goals 
 In this unit we're going to turn from the pure mathematical objects of Random Variables and Conditional Expectations to start getting our hands dirty with data. 
 
-Through this unit we're going to start to ask (and hopefully answer!) questions about how we can use data to inform ourselves about random variables. 
-
 ## Unit Sections 
 There are two mandatory sections for this unit, and one optional unit. 
 
