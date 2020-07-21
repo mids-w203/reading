@@ -17,5 +17,3 @@ This is a big week, there is no way around it. We have designed this week to be 
 - The third session might take about **90** minutes to complete. 
 
 Let's get to work. 
-
-
