@@ -1,5 +1,5 @@
-# Paired t-tests 
+# Paired t-Tests 
 
 Please read section 9.3 in *Devore*. 
 
-- The section is titled **paired t-tests**. 
+- The section is titled **paired t-Tests**. 
