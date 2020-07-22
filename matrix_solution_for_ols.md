@@ -21,5 +21,5 @@ If you haven't taken a linear algebra course, *don't* rush out and try to cram o
 
 - Matrices are compact representations of collections of data, nothing more, and nothing less. 
 - Matrices largely follow the general algebra rules that you're already familiar with, but with a few extra pieces of structure (due to their higher-dimensional representation). 
-- There are considerable benefits to facility working with matrices now (and tensors later). 
+- There are **considerable** benefits to facility working with matrices: not only the compact notational system, but also the reasoning the vector geometry that becomes apparent. 
 - But: *if you don't have some prior exposure, this isn't the place to seek it out.* Stay with the statistics for now, we will always try to explain at a level useful to each student. 
