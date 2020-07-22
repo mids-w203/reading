@@ -6,9 +6,9 @@ In this week's work, you will learn about practical considerations when building
 
 In the first part of the week you will learn about the different reasons that you might build a statistical model: 
 
-1. To **describe** features of the world;
-2. To **predict** features of the world; and, 
-3. To **explain** features of the world. 
+1. to **describe** features of the world;
+2. to **predict** features of the world; and, 
+3. to **explain** features of the world. 
 
 We're aware that you have also used this language in introduction to research design. In this work, we will bring this to bear on statistical model building. 
 
