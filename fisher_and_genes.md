@@ -1,6 +1,6 @@
 # Reading: Alleged Dangers of Cigarette Smoking 
 
-Please read the two-page article, published in the *British Medical Journal* written by Ronald A. Fisher. [**[Link Here**]](./docs/fisher_1957.pdf). 
+Please read the two-page article, published in the *British Medical Journal* written by Ronald A. Fisher. [**[Link Here**]](./docs/fisher_1958.pdf). 
 
 ![fisher-image](./images/fisher.gif)
 
