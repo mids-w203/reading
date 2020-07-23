@@ -1,4 +1,3 @@
 # Maximum Likelihood 
 
-There is no content to read at this point. We will update this with
-readings before the launch of the class.
+Read *Foundations of Agnostic Statistics*, section 5.2 through page 189, skipping any paragraph that talks about OLS regression.
