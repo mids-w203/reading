@@ -18,6 +18,12 @@ Fisher wrote in *The Race Question*, a document produced by UNESCO in 1950 that 
 
 > It appears to me unmistakable that gene differences which influence the growth or physiological development of an organism will ordinarily pari passu influence the congenital inclinations and capacities of the mind. In fact, I should say that, [...] available scientific knowledge provides a firm basis for believing that the groups of mankind differ in their innate capacity for intellectual and emotional development,' seeing that such groups do differ undoubtedly in a very large number of their genes." (UNESCO 1952). 
 
+# Article Implications 
+
+- What connection does Fisher argue might exist through his examination of monozygotic and dizygotic a twins? 
+- What connection does Fisher argue *might* exist (though he provides no evidence in support of the claim)? 
+- What is the causal graph that Fisher argues might exist? 
+
 # References 
 Hald, Anders (1998). A History of Mathematical Statistics. New York: Wiley. ISBN 978-0-471-17912-2.
 
