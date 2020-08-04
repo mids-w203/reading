@@ -6,5 +6,5 @@ In the first part of this week's work, which we anticipate will require about **
 
 Sometimes these concepts can be a little difficult to keep straight—as we will use them in this class: 
 
-- Operators map random variables (which are functions) onto a real number—the input might be a series of numbers or a function, **but** the output is a single number
-- Functions map inputs onto output—the input might be a series of numbers or a function, **and** the output has the same shape or structure as the input 
+- Functions map inputs onto outputs.  The inputs and outputs could be any sets, but the domain is often a sample space or the real numbers.
+- We use the word operator instead of function when the inputs are random variables (which are functions) and the outputs are real numbers.  Each random variable is mapped to a **single** real number.
