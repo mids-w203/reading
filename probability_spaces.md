@@ -1,4 +1,4 @@
-# Probability Theory 
+# Foundations of Agnostic Statistics
 
 Please read sections 1.0, 1.1, 1.1.1, and 1.1.2 in *Foundations of Agnostic Statistics*. 
 

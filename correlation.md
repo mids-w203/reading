@@ -1,4 +1,4 @@
-# Correlation 
+# Foundations of Agnostic Statistics
 
 Please read the second half of section 2.2.1 and section 2.2.2 in *Foundations of Agnostic Statistics*. 
 

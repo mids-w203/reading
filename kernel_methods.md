@@ -1,4 +1,4 @@
-# Kernel Methods 
+# Optional: Foundations of Agnostic Statistics
 
 The interested student can read section 3.3.2 in *Foundations of Agnostic Statistics*. 
 

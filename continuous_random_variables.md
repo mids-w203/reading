@@ -1,4 +1,4 @@
-# Continuous Random Variables 
+# Foundations of Agnostic Statistics
 
 Please read section 1.2.4 and 1.2.5 in *Foundations of Agnostic Statistics*.
 

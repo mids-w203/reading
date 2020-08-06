@@ -1,4 +1,4 @@
-# Reading: Inference About A Model 
+# Applied Statistics by Penn State
 
 Please read this [short section](./f_test_PSU_stat_501_notes.pdf) of notes from a textbook written by Drs. Iain Pardoe, Laura Simon and Derek Young at Penn State University. 
 

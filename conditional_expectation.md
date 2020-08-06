@@ -1,4 +1,4 @@
-# Conditional Expectation 
+# Foundations of Agnostic Statistics
 
 Please read the first part of section 2.2.3, ending after the proof of
 **Theorem 2.2.14** *Linearity of Conditional Expectations*  in *Foundations of Agnostic Statistics*. 

@@ -1,4 +1,4 @@
-# Covariance
+# Foundations of Agnostic Statistics
 
 Please read sections 2.2.0 and 2.2.1 in *Foundations of Agnostic Statistics*. 
 

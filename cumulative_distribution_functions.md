@@ -1,4 +1,4 @@
-# Cumulative Distribution Functions 
+# Foundations of Agnostic Statistics
 
 Please read Section 1.2.3 in *Foundations of Agnostic Statistics*.
 

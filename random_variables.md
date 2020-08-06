@@ -1,4 +1,4 @@
-# Random Variables 
+# Foundations of Agnostic Statistics
 
 Please read Section 1.2.0—1.2.1 in *Foundations of Agnostic Statistics*. 
 

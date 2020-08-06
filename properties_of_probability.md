@@ -1,4 +1,4 @@
-# Properties of Probability 
+# Foundations of Agnostic Statistics
 
 Please continue to read from where you left off in section 1.1.3 in *Foundations of Agnostic Statistics*.
 

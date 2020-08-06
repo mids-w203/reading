@@ -1,4 +1,4 @@
-# Independence 
+# Foundations of Agnostic Statistics
 
 Please read section 1.1.4 in *Foundations of Agnostic Statistics*. 
 

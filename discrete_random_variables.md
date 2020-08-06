@@ -1,4 +1,4 @@
-# Discrete Random Variables 
+# Foundations of Agnostic Statistics
 
 Please read section 1.2.2 in *Foundations of Agnostic Statistics*.
 

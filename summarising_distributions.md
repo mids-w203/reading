@@ -1,4 +1,4 @@
-# Summarizing Distributions 
+# Foundations of Agnostic Statistics
 
 Please read section 2.0, 2.1, and 2.1.1 in *Foundations of Agnostic Statistics*. 
 

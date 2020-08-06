@@ -1,4 +1,4 @@
-# Reading: The Matrix Solution for OLS Regression 
+# Foundations of Agnostic Statistics
 
 Please read section **4.1.3 Regression with Matrix Algebra** in *Foundations of Agnostic Statistics*. 
 

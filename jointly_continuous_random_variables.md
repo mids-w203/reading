@@ -1,4 +1,4 @@
-# Jointly Continuous Random Variables 
+# Foundations of Agnostic Statistics
 
 Please read section 1.3.3 in *Foundations of Agnostic Statistics*. 
 

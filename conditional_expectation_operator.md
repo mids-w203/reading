@@ -1,4 +1,4 @@
-# Conditional Expectation Operator 
+# Foundations of Agnostic Statistics
 
 Please read the first third of section 2.2.2 **Conditional Expectations and Conditional Expectation Functions.** Stop before *Definition 2.2.12 Conditional Variance*. 
 

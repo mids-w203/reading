@@ -1,4 +1,4 @@
-# The Law of Iterated Expectations and Total Variance 
+# Foundations of Agnostic Statistics
 
 Please read the last part of section 2.2.3, beginning on the bottom of page 71 through the end of the section in *Foundations of Agnostic Statistics*. 
 

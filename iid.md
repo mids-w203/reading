@@ -1,4 +1,4 @@
-# Independent and Identically Distributed 
+# Foundations of Agnostic Statistics
 
 Please read section 3.0, 3.1, 3.1.1, and 3.1.2 in *Foundations of Agnostics Statistics*. 
 

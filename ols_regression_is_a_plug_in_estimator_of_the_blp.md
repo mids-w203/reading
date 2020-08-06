@@ -1,4 +1,4 @@
-# Reading: OLS Regression Estimates the BLP 
+# Foundations of Agnostic Statistics
 
 Please read section 4.0, 4.1, 4.1.1, and 4.1.2 in *Foundations of Agnostic Statistics*. 
 

@@ -1,4 +1,4 @@
-# The Plug-In Principle 
+# Foundations of Agnostic Statistics
 
 The interested student may want to read section 3.3 and 3.3.1 in *Foundations of Agnostic Statistics*. 
 

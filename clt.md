@@ -1,4 +1,4 @@
-# The Central Limit Theorem 
+# Foundations of Agnostic Statistics
 
 Please read section 3.2.4 in *Foundations of Agnostic Statistics*. 
 

@@ -1,4 +1,4 @@
-# Estimation Theory 
+# Foundations of Agnostic Statistics
 
 Please read section 3.2.2 in *Foundations of Agnostic Statistics.* 
 

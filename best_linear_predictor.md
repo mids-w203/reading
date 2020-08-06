@@ -1,4 +1,4 @@
-# Best Linear Predictor 
+# Foundations of Agnostic Statistics
 
 Please read section 2.2.4 **Best Predictors and Best Linear Predictors** in *Foundations of Agnostic Statistics*. 
 

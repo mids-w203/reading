@@ -1,4 +1,4 @@
-# Independence of Random Variables 
+# Foundations of Agnostic Statistics
 
 Please read section 1.3.4 in *Foundations of Agnostic Statistics*. 
 

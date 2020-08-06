@@ -1,4 +1,4 @@
-# Asymptotics 
+# Foundations of Agnostic Statistics
 
 The interested student can continue to read section 3.2.5 in *Foundations of Agnostic Statistics*. 
 

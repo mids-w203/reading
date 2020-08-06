@@ -1,4 +1,4 @@
-# Multivariate Generalizations of the BLP 
+# Foundations of Agnostic Statistics
 
 Please do some targeted reading of section 2.3 in *Foundations of Agnostic Statistics*. 
 

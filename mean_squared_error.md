@@ -1,4 +1,4 @@
-# Mean Squared Error 
+# Foundations of Agnostic Statistics
 
 Please read section 2.1.2 in *Foundations of Agnostic Statistics*. 
 

@@ -1,4 +1,4 @@
-# Reading: The Golem of Prague 
+# Reading: Statistical Rethinking
 
 Read the apocryphal story of the [Golem of Prague](https://libproxy.berkeley.edu/login?qurl=http%3A%2F%2Fuclibs.org%2FPID%2F424397) 
 from Richard McElreath's **very** good *Statistical Rethinking*. 

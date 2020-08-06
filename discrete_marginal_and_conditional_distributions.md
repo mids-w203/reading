@@ -1,4 +1,4 @@
-# Discrete Marginal and Conditional Distributions 
+# Foundations of Agnostic Statistics
 
 Please read section 1.3.2 in *Foundations of Agnostic Statistics*. 
 

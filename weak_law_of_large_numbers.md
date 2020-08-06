@@ -1,4 +1,4 @@
-# Weak Law of Large Numbers 
+# Foundations of Agnostic Statistics
 
 Please continue to read section 3.2.1, picking up where you left off, in *Foundations of Agnostic Statistics*. 
 

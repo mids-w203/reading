@@ -1,4 +1,4 @@
-# Reading: *Foundations of Agnostic Statistics*
+# # Foundations of Agnostic Statistics
 
 Please read the **Introduction** to *Foundations of Agnostic Statistics*. 
 
