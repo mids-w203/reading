@@ -1,3 +1,3 @@
 # Polynomials 
 
-There is no reading content in this point right now. We will include this content before the presentation of the course. 
+Read *Foundations of Agnostic Statistics*, section 4.3 through 4.3.2, stopping at section 4.3.3.
