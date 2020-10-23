@@ -1,3 +1,3 @@
 # Interaction Terms 
 
-We will fill out the reading for this before the presentation of the course. 
+Read *Foundations of Agnostic Statistics*, section 4.3.3, on pages 164 to 165.
