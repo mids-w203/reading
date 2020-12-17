@@ -1,7 +1,7 @@
-# Unit 9: Part 1 
+# Unit 8: Part 1 
 ## Understanding Linear Models 
 
-In this part of Unit 9, which we anticipate might take you **60** minutes to complete, you will learn about linear models as a method of making predictions and estimating relationships. 
+In this part of the unit, which we anticipate might take you **60** minutes to complete, you will learn about linear models as a method of making predictions and estimating relationships. 
 
 Linear models are versatile, reasonably flexible, and are sometimes interpretable. Linear models are a fantastic entry-point into data science model building because it is possible to see each part of the model, reason about what is happening within the model, and potentially make changes to either the data or the model in order to let the model and data work *better* together. 
 

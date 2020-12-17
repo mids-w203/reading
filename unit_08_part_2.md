@@ -1,4 +1,4 @@
-# Unit 9: Part 2
+# Unit 8: Part 2
 ## Selecting a Linear Model with OLS Regression 
 
 In this part of the unit, which we anticipate might take **90-120** minutes to complete, you will learn about how OLS regression selects from all of the possible linear models to produce the linear model that has the lowest mean squared error (MSE). 
