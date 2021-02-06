@@ -1,4 +1,4 @@
-# Unit 7: Part 1
+# Unit Plan: Part 1
 
 ## The Two-Sample t-test 
 

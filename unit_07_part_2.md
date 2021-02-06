@@ -1,4 +1,4 @@
-# Unit 7: Part 2
+# Unit Plan: Part 2
 
 ## Nonparametric Tests for Two Groups
 

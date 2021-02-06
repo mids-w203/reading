@@ -1,4 +1,4 @@
-# Plan for Unit 7 
+# Plan for the Unit 
 
 This unit continues the work of classical hypothesis testing. It builds on the work of the previous unit by asking questions about data that has *more unique* qualities than were covered in the previous unit. These unique qualities include: 
 
