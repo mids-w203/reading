@@ -1,0 +1,3 @@
+# Plan for Unit 11 
+
+In this unit you will learn the fundamentals of maximum likelihood.  This is a statistical technique for estimating model parameters which has important applications throughout classical statistics and machine learning.  You will first watch a lecture in which we demonstrate the procedure for a simple scenario.  You will then have a chance to practice the steps of maximum likelihood estimation in a guided proof activity.  Finally, we will show you how maximum likelihood is another way to motivate OLS regression.
