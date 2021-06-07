@@ -1,6 +1,5 @@
-# Devore: Probability and Statistics for Engineering and the Sciences
+# Devore & Berk: Modern Mathematical Statistics with Applications
 
-Please read section 9.1 and 9.2 in *Devore* (that is the name of the
-author). 
+Please read section 10.1 and 10.2 in [*Devore & Berk*](https://link-springer-com.libproxy.berkeley.edu/book/10.1007%2F978-1-4614-0391-3)
 
-- Stop reading when you get to *pooled t-procedures*. 
+- Stop reading when you get to *Pooled t Procedures*. 
