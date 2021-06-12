@@ -1,4 +1,4 @@
-# Unit 8: Large Sample Regression Theory 
+# Unit 7: Large Sample Regression Theory 
 
 In this unit you will learn about how linear models in general, and linear models fitted by the OLS regression algorithm in particular, produce estimates. 
 
