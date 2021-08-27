@@ -1,7 +1,7 @@
 # Unit 12: Part 3 
 ## Evaluating Whether Data Meets the CLM Requirements 
 
-In this section, which we anticipate might take you **60** minutes to complete, you will learn about how to test whether your data and model together meet the requirements of the *CLM* to produce reliable estimates. 
+In this section, you will learn about how to test whether your data and model together meet the requirements of the *CLM* to produce reliable estimates. 
 
 For each of the CLM assumptions, you will learn about how to test whether the data satisfies the assumption. 
 

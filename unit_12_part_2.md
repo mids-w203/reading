@@ -1,7 +1,7 @@
 # Unit 12: Part 2
 ## Properties of the Classical Linear Model 
 
-In this section, which we anticipate will take you **75** minutes to complete, you will apply the requirements of data (i.e. assumptions) to learn about the guarantees that exist when data has particular attributes. 
+In this section, you will apply the requirements of data (i.e. assumptions) to learn about the guarantees that exist when data has particular attributes. 
 
 In particular, you will learn that **if** the data used in an OLS regression is: 
 

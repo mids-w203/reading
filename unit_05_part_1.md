@@ -2,7 +2,7 @@
 
 ## Random Sampling
 
-In this first part of the week's work, which we anticipate might take you **two hours** we are going to switch gears to start building out statistical, rather than pure mathematical reasoning. 
+In this first part of the week's work, we are going to switch gears to start building out statistical, rather than pure mathematical reasoning. 
 
 At this point, we begin to ask (and hopefully answer!) questions like: 
 

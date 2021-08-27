@@ -10,9 +10,6 @@ To do so, you will synthesize several pieces from earlier units in the course. N
 - Convergence in distribution from the *Central Limit Theorem*; and, 
 - Plug-in estimators from samples as population estimators. 
 
-- The first session might take about **60** minutes to complete. 
-- The second session might take between **90-120** minutes to complete. 
-
 Let's get to work!
 
 # Unit 9: Estimating Uncertainty of OLS Estimates 
@@ -23,5 +20,5 @@ In this unit, you are going to learn about uncertainty estimates for these estim
 
 1. To understand that OLS regression coefficients' standard errors are a produce of sampling, and to appreciate the similarity of this concept to measures of uncertainty from hypothesis in earlier units. 
 
-2. To conduct appropriate tests within the Frequentist testing framework. These tests include tests for a null hypothsis for individual coefficients, and tests for a null hypothesis about an ensemble of coefficients. 
+2. To conduct appropriate tests within the Frequentist testing framework. These tests include tests for a null hypothesis for individual coefficients, and tests for a null hypothesis about an ensemble of coefficients. 
 
