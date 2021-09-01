@@ -10,7 +10,4 @@ To do so, you will synthesize several pieces from earlier units in the course. N
 - Convergence in distribution from the *Central Limit Theorem*; and, 
 - Plug-in estimators from samples as population estimators. 
 
-- The first session might take about **60** minutes to complete. 
-- The second session might take between **90-120** minutes to complete. 
-
 Let's get to work!

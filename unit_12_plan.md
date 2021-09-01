@@ -17,6 +17,6 @@
 
  This weeks study is broken into **three** parts. 
 
- 1. The **first** section introduces the conditions that we will evaluate about our data. This section should take fewer than **30** minutes to complete. 
- 2. The **second** section works through the math and theory to show how the guarantees of OLS estimators change when different conditions for the data are met. This section should take about **60** minutes to complete. 
+ 1. The **first** section introduces the conditions that we will evaluate about our data. 
+ 2. The **second** section works through the math and theory to show how the guarantees of OLS estimators change when different conditions for the data are met. 
  3. The **third** section introduces checks and tests to evaluate whether data does, indeed, meet the requirements for estimates from the OLS estimator to be *meaningfully informative* about population parameters. 

@@ -1,7 +1,7 @@
 # Unit 12: Part 1 
 ## Assumptions of the Classical Linear Model 
 
-In this section, which we anticipate might take as few as **30** minutes, you will learn about the assumptions about data that must be met in order for the *Classical Linear Model* to produce reliable estimates. 
+In this section, you will learn about the assumptions about data that must be met in order for the *Classical Linear Model* to produce reliable estimates. 
 
 We should be clear from the outset: while these are referred to as *assumptions* it is not the case that you can simply assume them to be true about the data that you are using. 
 
