@@ -5,7 +5,7 @@ Please read section 2.2.4 **Best Predictors and Best Linear Predictors** in *Fou
 - Pages 75—82
 - The section titled *Best Predictors and Best Linear Predictors* 
 
-This is a longer section of reading, so hear is a reading guide: 
+This is a longer section of reading, so here is a reading guide: 
 
 - Pages 75—76 introduce the concept of the *Best Linear Predictor*.
 - Pages 77—78 uses calculus to derive a formula for the BLP. Because the function is linear in the terms, the derivative of the function is simplifies really nicely. 
