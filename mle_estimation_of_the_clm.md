@@ -2,7 +2,7 @@
 
 Here is a brief (3 pages) demonstration of how Maximum Likelihood produces the same estimates as the standard, OLS regression estimator that we have used to this point. We wouldn't expect you to be able to prove or derive this yourself, but we do think that at this point in the semester, you're probably able to read along and follow the argument. 
 
-[Link to read](https://www.le.ac.uk/users/dsgp1/COURSES/MATHSTAT/13mlreg.pdf)
+[Link to reading.](https://www.le.ac.uk/users/dsgp1/COURSES/MATHSTAT/13mlreg.pdf)
 
 As you're reading, note: 
 
